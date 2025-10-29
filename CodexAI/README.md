@@ -70,7 +70,7 @@ Get yours from [Google AI Studio](https://aistudio.google.com/app/apikey) and ad
 
 | 🏠 Home Page |
 |-------------|
-| ![Home](assets/codexai-ss1.png) |
+| ![Home](assets/codexai_ss1.png) |
 
 ---
 
