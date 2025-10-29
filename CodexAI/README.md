@@ -1,6 +1,6 @@
-# 🤖✨ Welcome to **Cortexa** – Your AI Code Review Buddy! ✨
+# 🤖✨ Welcome to **CodexAI** – Your AI Code Review Buddy! ✨
 
-Cortexa is your smart, friendly, and lightning-fast AI-powered code reviewer!  
+CodexAI is your smart, friendly, and lightning-fast AI-powered code reviewer!  
 Paste your code, hit **Review**, and get instant, expert feedback powered by Google Gemini.  
 Perfect for learners, pros, and everyone in between – all in a beautiful, interactive interface.
 
@@ -21,8 +21,8 @@ Perfect for learners, pros, and everyone in between – all in a beautiful, inte
 ### 1. Clone this repo
 
 ```sh
-git clone https://github.com/your-username/cortexa.git
-cd cortexa
+git clone https://github.com/your-username/CodexAI-AI-Code-Reviewer.git
+cd CodexAI
 ```
 
 ### 2. Set up the backend
@@ -82,7 +82,7 @@ Get yours from [Google AI Studio](https://aistudio.google.com/app/apikey) and ad
 
 ---
 
-## 🤗 Thank You for Visiting Cortexa!
+## 🤗 Thank You for Visiting CodexAI!
 
 I am thrilled to have you here! If you have feedback or ideas, feel free to open an issue or contribute.  
 Happy coding, and remember: **with Cortexa, you're never coding alone!** 🚀🤝✨
