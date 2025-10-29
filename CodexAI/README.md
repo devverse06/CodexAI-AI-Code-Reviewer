@@ -66,11 +66,11 @@ Get yours from [Google AI Studio](https://aistudio.google.com/app/apikey) and ad
 
 | 🔍 Review Example |
 |-------------------|
-| ![Review](assests/codexai-ss2.png) |
+| ![Review](assets/codexai-ss2.png) |
 
 | 🏠 Home Page |
 |-------------|
-| ![Home](assests/codexai-ss1.png) |
+| ![Home](assets/codexai-ss1.png) |
 
 ---
 
