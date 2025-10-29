@@ -85,4 +85,4 @@ Get yours from [Google AI Studio](https://aistudio.google.com/app/apikey) and ad
 ## 🤗 Thank You for Visiting CodexAI!
 
 I am thrilled to have you here! If you have feedback or ideas, feel free to open an issue or contribute.  
-Happy coding, and remember: **with Cortexa, you're never coding alone!** 🚀🤝✨
+Happy coding, and remember: **with CodexAI, you're never coding alone!** 🚀🤝✨
