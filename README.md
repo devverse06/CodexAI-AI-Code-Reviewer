@@ -5,7 +5,13 @@ Paste your code, hit **Review**, and get instant, expert feedback powered by Goo
 Perfect for learners, pros, and everyone in between – all in a beautiful, interactive interface.
 
 ---
+## 🌐 Live Demo
 
+🚀 **Try it here:** [CodexAI Live App](https://codexai-ai-code-editor.vercel.app/#)
+
+*(Deployed version with full frontend + backend integration)*
+
+---
 ## 🚀 Features You'll Love
 
 - 🤖 **AI-Powered Reviews:** Get smart, constructive feedback using Google Gemini.
