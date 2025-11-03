@@ -7,7 +7,7 @@ Perfect for learners, pros, and everyone in between – all in a beautiful, inte
 ---
 ## 🌐 Live Demo
 
-🚀 **Try it here:** [CodexAI Live App](https://codexai-ai-code-editor.vercel.app/#)
+🚀 **Try it here:** [CodexAI Live App](https://codexai-ai-code-editor.vercel.app/)
 
 *(Deployed version with full frontend + backend integration)*
 
